@@ -1,0 +1,5 @@
+{
+  "name": "Coordinació Batxillerat - Recuperacions",
+  "description": "Generador automàtic d'horaris de recuperacions optimitzat per a Batxillerat amb restriccions específiques de matèries i franges horàries.",
+  "requestFramePermissions": []
+}
